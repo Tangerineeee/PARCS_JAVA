@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="production">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/MatrixFrobeniusNormTask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Parcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
